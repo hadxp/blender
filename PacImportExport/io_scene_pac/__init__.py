@@ -33,7 +33,7 @@ bl_info = {
                     "Export PAC files."),
     "warning": "",
     "wiki_url": ("https://godotengine.org"),
-    "tracker_url": "https://github.com/UndercoverPervert/collada-exporter",
+    "tracker_url": "https://github.com/hadxp/blender/tree/master/PacImportExport",
     "support": "OFFICIAL",
     "category": "Import-Export",
     "data_files": [
@@ -43,8 +43,7 @@ bl_info = {
     "modules": [
         "export_dae",
         "import_pac",
-        "export_pac",
-        "import_export_test"
+        "export_pac"
     ]
     }
 
