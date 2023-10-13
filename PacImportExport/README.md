@@ -17,7 +17,7 @@ Enhanced Collada exporter for [Blender](https://www.blender.org).
 2. Go to the Blender settings and enable the "PAC format and Better Collada Exporter" plugin.
 3. Enjoy full-featured PAC Import/Export and Collada export.
 
-##Note
+## Note
 The PAC Import can be found at File>Import>PAC Import
 The PAC Export can be found at File>Export>PAC Export(not working)
 The better collada export can be found at File>Export>Better Callada (.dae)
