@@ -3,10 +3,7 @@ Easily import BDO PAC files into blender
 Easily export BDO PAC files from blender
 
 # Godot Engine's "Better" Collada exporter for Blender
-
 Enhanced Collada exporter for [Blender](https://www.blender.org).
-
-This tool has been modified for better compatibility with PACtool.
 
 ## Installation
 
@@ -18,10 +15,16 @@ This tool has been modified for better compatibility with PACtool.
    Copy the entire dir and not just its
    contents.
 2. Go to the Blender settings and enable the "PAC format and Better Collada Exporter" plugin.
-3. Enjoy full-featured PAC Import and Collada export.
-3a. The PAC Import can be found at File>Import>PAC Import
-3b. The PAC Export can be found at File>Export>PAC Export(not working)
-3c. The better collada export can be found at File>Export>Better Callada (.dae)
+3. Enjoy full-featured PAC Import/Export and Collada export.
+
+##Note
+The PAC Import can be found at File>Import>PAC Import
+The PAC Export can be found at File>Export>PAC Export(not working)
+The better collada export can be found at File>Export>Better Callada (.dae)
+
+This tool has been modified for better compatibility with PACtool.
+
+The PACtool version is 1.4.3
 
 If you find bugs or want to suggest improvements for the PAC import/export, please contact 
 the userid 290513750027534356 on discord.
