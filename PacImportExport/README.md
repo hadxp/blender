@@ -19,7 +19,7 @@ Enhanced Collada exporter for [Blender](https://www.blender.org).
 
 ## Note
 The PAC Import can be found at File>Import>PAC Import
-The PAC Export can be found at File>Export>PAC Export(not working)
+The PAC Export can be found at File>Export>PAC Export
 The better collada export can be found at File>Export>Better Callada (.dae)
 
 This tool has been modified for better compatibility with PACtool.
@@ -30,6 +30,21 @@ If you find bugs or want to suggest improvements for the PAC import/export, plea
 the userid 290513750027534356 on discord.
 If you find bugs or want to suggest improvements for the collada exporter, please open an issue on the
 upstream [GitHub repository](https://github.com/godotengine/collada-exporter).
+
+## Pac Import
+1. Click on File>Import>PAC Import
+2. Select an pac file to import
+3. Done
+
+## Pac Export
+1. Click on File>Export>PAC Export
+2. Select the pac file, in which the mesh ( DAE ) should be replaced
+3. Done
+
+## Better Collada Export
+1. Click on File>Export>Better Callada (.dae)
+2. Select a filepath to where the file, should be saved, or the file which should be overwritten
+3. Done
 
 ## License
 
