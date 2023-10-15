@@ -74,7 +74,7 @@ def run_pactool(full_pac_path, full_path_to_dae, class_abbreviation):
     bones_directory = os.path.join(script_directory, 'bones')
     
     # Specify the command as a string
-    command = f"{pactool_exe} -r -replaceAllLOD {full_path_to_dae} {full_pac_path} {bones_directory}\{class_abbreviation}_01.pab"
+    command = f"{pactool_exe} -r -replaceAllLOD -colorCoding {full_path_to_dae} {full_pac_path} {bones_directory}\{class_abbreviation}_01.pab"
     
     # print out the command string
     print(f'Executing pactool: {command}')
